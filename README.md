@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis - NLP
+# X Sentiment Analysis - NLP
 
 # Dataset Information
 
